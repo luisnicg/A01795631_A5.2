@@ -20,16 +20,16 @@ Pruebas de software y aseguramiento de la calidad (Gpo 10)
 
 ### [Compute sales](https://github.com/luisnicg/A01795631_A5.2/tree/main/)
 
-* Este criterio depende de una competencia de aprendizajePrograma 1. Análisis de Errores de Pylint – PEP 
+* Programa 1. Análisis de Errores de Pylint – PEP 
 
 ![Pylint](Evidences/C1-Pylint.png "Pylint result")
 
-* Este criterio depende de una competencia de aprendizajePrograma 1. Análisis de Errores de Flake
+* Programa 1. Análisis de Errores de Flake
 
 
 [Flake result](https://github.com/luisnicg/A01795631_A5.2/blob/main/Evidences/C2-%20Flake.mp4)
 
 
-* Este criterio depende de una competencia de aprendizajePrograma 3. Correcta Ejecución de Casos de Prueba
+* Programa 1. Correcta Ejecución de Casos de Prueba
 
 [Test cases](https://github.com/luisnicg/A01795631_A5.2/blob/main/Evidences/C3-TestCases.mp4)

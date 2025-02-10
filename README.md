@@ -24,6 +24,9 @@ Pruebas de software y aseguramiento de la calidad (Gpo 10)
 
 ![Pylint](Evidences/C1-Pylint.png "Pylint result")
 
+*Se puede veer que se presentan únicamente dos errores, uno relacionado al nombre del archivo, y otro a una excepción general.*
+
+
 * Programa 1. Análisis de Errores de Flake
 
 
